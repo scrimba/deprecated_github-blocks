@@ -16,13 +16,5 @@
     "entry": "blocks/scrims-block.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/scrimba/react-meme-generator/blob/master/"
-  }, {
-    "type": "file",
-    "id": "scrims-md",
-    "title": "Markdown with scrims",
-    "description": "Display Markdown files with scrim player support",
-    "entry": "blocks/scrim-md/index.tsx",
-    "matches": ["*.md,*.mdx"],
-    "example_path": "https://github.com/scrimba/react-meme-generator/blob/master/"
-  }
+  } 
 ]
